@@ -2,7 +2,7 @@
 
 
 #### Certificates
-| Course | Institute | Length (hrs) | Certificate | Completion |
+| Course | Platform | Length (hrs) | Certificate | Completion |
 | --- | --- | --- | --- | --- |
 | 12. [GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Coursera, DeepLearning.ai | 76 | NA | 2023 |
 | 11. [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) | Coursera, DeepLearning.ai, HuggingFace | 102 | NA | 2023 |
