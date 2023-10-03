@@ -1,4 +1,4 @@
-### Set of certificates in the field of Statistics, Deep Learning and Cloud operations
+### Set of certificates in the field of Statistics, Machine Learning and Cloud operations
 
 
 #### Certificates
