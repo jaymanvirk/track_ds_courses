@@ -1,7 +1,7 @@
 # Set of certificates in the field of Statistics, Machine Learning and Cloud operations
 
 
-| Course | Platform | Length (hrs) | Progress (%) | Certificate | Completion |
+| Course | Platform | Length (hrs) | Progress (%) | Certificate | Completed |
 | --- | --- | --- | --- | --- | --- |
 | 12. [GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Coursera, DeepLearning.ai | 76 | | |
 | 11. [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) | Coursera, DeepLearning.ai, HuggingFace | 102 | | |
