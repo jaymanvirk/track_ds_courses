@@ -7,7 +7,7 @@
 | 11. [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) | Coursera, DeepLearning.ai, HuggingFace | | |
 | 10. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera, DeepLearning.ai | | |
 | 9. [Math for ML Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | Coursera, DeepLearning.ai | | |
-| 8. [NLP and Audio Processing](https://huggingface.co/learn/audio-course/chapter0/introduction) | HuggingFace | 15 | | |
+| 8. [NLP and Audio Processing](https://huggingface.co/learn/audio-course/chapter0/introduction) | HuggingFace | 20 | | |
 | 7. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Coursera, Stanford | 100 | [Machine Learning](https://coursera.org/share/06412eeb77e5dd97df9c932b507a0087) | 2018 |
 | 6. [Parallel Programming with Dask in Python](https://www.datacamp.com/courses/parallel-programming-with-dask-in-python) | DataCamp | 100 | [Parallel Computing with Dask in Python](https://www.datacamp.com/statement-of-accomplishment/course/f1a138e29a11f86ad477d575bac3297c9393c036) | 2018 |
 | 5. [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost) | DataCamp | 100 | [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/statement-of-accomplishment/course/923819f3059b11e72149581b290e13e8d92aa57d) | 2018 |
