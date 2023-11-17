@@ -3,10 +3,11 @@
 
 | Course | Platform | Progress (%) | Certificate | Year |
 | --- | --- | --- | --- | --- |
-| 12. [GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Coursera, DeepLearning.ai | | |
-| 11. [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) | Coursera, DeepLearning.ai, HuggingFace | | |
-| 10. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera, DeepLearning.ai | | |
-| 9. [Math for ML Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | Coursera, DeepLearning.ai | | |
+| 13. [GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Coursera, DeepLearning.ai | | |
+| 12. [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) | Coursera, DeepLearning.ai, HuggingFace | | |
+| 11. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera, DeepLearning.ai | | |
+| 10. [Math for ML Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) | Coursera, DeepLearning.ai | | |
+| 9. [Data Science on the AWS Cloud Specialization](https://www.coursera.org/specializations/practical-data-science) | Coursera, DeepLearning.ai | | |
 | 8. [NLP and Audio Processing](https://huggingface.co/learn/audio-course/chapter0/introduction) | HuggingFace | 37.5 | | |
 | 7. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Coursera, Stanford | 100 | [Machine Learning](https://coursera.org/share/06412eeb77e5dd97df9c932b507a0087) | 2018 |
 | 6. [Parallel Programming with Dask in Python](https://www.datacamp.com/courses/parallel-programming-with-dask-in-python) | DataCamp | 100 | [Parallel Computing with Dask in Python](https://www.datacamp.com/statement-of-accomplishment/course/f1a138e29a11f86ad477d575bac3297c9393c036) | 2018 |
