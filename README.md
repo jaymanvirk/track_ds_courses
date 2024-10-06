@@ -1,4 +1,4 @@
-# Set of Data Science courses grouped by institutions
+# Set of Data Science courses in progress grouped by institutions
 
 
 | Institution | Completed courses | Courses | Year |
